@@ -11,7 +11,7 @@ public class repl192 {
         for (int i = 1; i <= 100; i++) {
             if (isPrime(i))
             {
-                primeNumbers.add(i);
+                primeNumbers.add(i); //prime no's are those which can only be divided by itself
             }
         }
 
